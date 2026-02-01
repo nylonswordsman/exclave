@@ -4,30 +4,14 @@
 
 <div class="header" align="center">
 
-[![Discord](https://img.shields.io/discord/1272545509562777621?label=Discord&logo=discord&logoColor=white)](https://discord.gg/ssJTANEa)
-[![Steam](https://img.shields.io/badge/Steam-SS14%20-blue)](https://store.steampowered.com/app/1255460/Space_Station_14/)
-[![Client](https://img.shields.io/badge/Client-Download-blue)](https://spacestation14.io/about/nightlies/)
-[![GitHub](https://img.shields.io/github/stars/ss14Starlight/space-station-14?style=social)]([https://github.com/ss14Starlight/space-station-14])
-
-# STARLIGHT  
-<sub>Space-Station 14</sub>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ss14Starlight/space-station-14)
-![GitHub Issues](https://img.shields.io/github/issues/ss14Starlight/space-station-14)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr-closed/ss14Starlight/space-station-14)
-
 </div>
 
-STARLIGHT is an open source project aimed at creating unique mechanics and a pleasant game atmosphere in the game Space Station 14, 
+# i didnt want to touch this too mmuch because im not used to this complexity of markdown
 
-a game about survival on a space station where there are constant confrontations between the crew and antagonists created to prevent the crew from achieving their goals.
+* [SS14 Documentation](https://docs.spacestation14.io/)
+* [Exclave Design Doc 1 - Systems](https://docs.google.com/document/d/1RsOmbBlFw8MUMRwPikDUSHFEr262EsbsCY84c1xGcNU/edit?tab=t.0)
+* [Exclave Design Doc 2 - Content](https://docs.google.com/document/d/1cOdfadL0TWyzFxm1nPLH9hEwMsXWlndMhLTRaDJ-P-0/edit?tab=t.6zg1c4at8eao#heading=h.2hxextch4gz7)
 
-## Space-Station 14 Documentation/Wiki
-
-Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
-
-## Project Activity
-![Alt](https://repobeats.axiom.co/api/embed/675a7780b2c40805e5266935fe9329cd0177aba3.svg "Repobeats analytics image")
 
 ---
 
