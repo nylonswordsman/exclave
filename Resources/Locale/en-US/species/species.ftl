@@ -11,3 +11,12 @@ species-name-skeleton = Skeleton
 species-name-vox = Vox
 species-name-gingerbread = delicious baked good
 species-name-vulpkanin = Vulpkanin
+
+species-name-rat = Rat
+species-name-mouse = Mouse
+species-name-squirrel = Squirrel
+species-name-rabbit = Rabbit
+species-name-ermine = Ermine
+species-name-thaleb = Thaleb
+species-name-badger = Badger
+species-name-skink = Skink

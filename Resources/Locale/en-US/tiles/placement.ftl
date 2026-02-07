@@ -1,1 +1,1 @@
-invalid-floor-placement = Unable to place there
+invalid-floor-placement = Can't place there!

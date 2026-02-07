@@ -79,7 +79,7 @@ chatsan-word-29 = ty
 chatsan-replacement-29 = thank you
 
 chatsan-word-30 = afk
-chatsan-replacement-30 = ssd
+chatsan-replacement-30 = sleep
 
 chatsan-word-31 = stfu
 chatsan-replacement-31 = shut the fuck up

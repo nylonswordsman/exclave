@@ -1,15 +1,15 @@
-humanoid-profile-editor-randomize-everything-button = Randomize everything
+humanoid-profile-editor-randomize-everything-button = Randomize All
 humanoid-profile-editor-name-label = Name:
-humanoid-profile-editor-name-random-button = Randomize
+humanoid-profile-editor-name-random-button = Randomize Name
 humanoid-profile-editor-appearance-tab = Appearance
-humanoid-profile-editor-clothing = Show clothing
+humanoid-profile-editor-clothing = Show Clothing
 humanoid-profile-editor-clothing-show = Show
 humanoid-profile-editor-sex-label = Sex:
 humanoid-profile-editor-sex-male-text = Male
 humanoid-profile-editor-sex-female-text = Female
 humanoid-profile-editor-sex-unsexed-text = None
 humanoid-profile-editor-age-label = Age:
-humanoid-profile-editor-skin-color-label = Skin color:
+humanoid-profile-editor-skin-color-label = Fur Color:
 humanoid-profile-editor-species-label = Species:
 humanoid-profile-editor-pronouns-label = Pronouns:
 humanoid-profile-editor-pronouns-male-text = He / Him
@@ -18,12 +18,12 @@ humanoid-profile-editor-pronouns-epicene-text = They / Them
 humanoid-profile-editor-pronouns-neuter-text = It / Its
 humanoid-profile-editor-import-button = Import
 humanoid-profile-editor-export-button = Export
-humanoid-profile-editor-export-image-button = Export image
-humanoid-profile-editor-open-image-button = Open images
+humanoid-profile-editor-export-image-button = Export Image
+humanoid-profile-editor-open-image-button = Open Images
 humanoid-profile-editor-save-button = Save
 humanoid-profile-editor-reset-button = Reset
-humanoid-profile-editor-spawn-priority-label = Spawn priority:
-humanoid-profile-editor-eyes-label = Eye color:
+humanoid-profile-editor-spawn-priority-label = Spawn Priority:
+humanoid-profile-editor-eyes-label = Eye Color:
 humanoid-profile-editor-jobs-tab = Jobs
 humanoid-profile-editor-preference-unavailable-stay-in-lobby-button = Stay in lobby if preference unavailable.
 humanoid-profile-editor-preference-unavailable-spawn-as-overflow-button = Be {INDEFINITE($overflowJob)} {$overflowJob} if preference unavailable.
@@ -36,8 +36,8 @@ humanoid-profile-editor-guidebook-button-tooltip = Click for more info
 
 # Spawn priority
 humanoid-profile-editor-preference-spawn-priority-none = None
-humanoid-profile-editor-preference-spawn-priority-arrivals = Arrivals
-humanoid-profile-editor-preference-spawn-priority-cryosleep = Cryosleep
+humanoid-profile-editor-preference-spawn-priority-arrivals = Docks
+humanoid-profile-editor-preference-spawn-priority-cryosleep = A Bed
 
 humanoid-profile-editor-jobs-amount-in-department-tooltip = Jobs in the {$departmentName} department
 humanoid-profile-editor-department-jobs-label = {$departmentName} jobs
@@ -61,5 +61,5 @@ humanoid-profile-editor-no-traits = No traits available
 humanoid-profile-editor-trait-count-hint = Points available: [{$current}/{$max}]
 
 trait-category-disabilities = Disabilities
-trait-category-speech = Speech traits
+trait-category-speech = Accents
 trait-category-quirks = Quirks
