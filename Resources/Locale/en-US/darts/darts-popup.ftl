@@ -3,4 +3,4 @@ darts-popup-25 = 25 points
 darts-popup-10 = 10 points
 darts-popup-5 = 5 points
 darts-popup-1 = 1 point
-darts-popup-miss = Miss
+darts-popup-miss = You missed the board...

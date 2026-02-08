@@ -1,7 +1,7 @@
 contraband-examine-text-Minor =
     { $type ->
-        *[item] [color=yellow]This item is considered minor contraband.[/color]
-        [reagent] [color=yellow]This reagent is considered minor contraband.[/color]
+        *[item] [color=yellow]This is considered slightly illegal.[/color]
+        [reagent] [color=yellow]Something in this is considered slightly illegal.[/color]
     }
 
 contraband-examine-text-Restricted =
@@ -18,35 +18,35 @@ contraband-examine-text-Restricted-department =
 
 contraband-examine-text-Major =
     { $type ->
-        *[item] [color=red]This item is considered major contraband.[/color]
-        [reagent] [color=red]This reagent is considered major contraband.[/color]
+        *[item] [color=red]This is considered illegal.[/color]
+        [reagent] [color=red]Something in this is considered illegal.[/color]
     }
 
 contraband-examine-text-GrandTheft =
     { $type ->
-        *[item] [color=red]This item is a highly valuable target for Syndicate agents![/color]
-        [reagent] [color=red]This reagent is a highly valuable target for Syndicate agents![/color]
+        *[item] [color=red]This is considered highly illegal![/color]
+        [reagent] [color=red]Something in this is considered highly illegal![/color]
     }
 
 contraband-examine-text-Highly-Illegal =
     { $type ->
-        *[item] [color=crimson]This item is highly illegal contraband![/color]
-        [reagent] [color=crimson]This reagent is highly illegal contraband![/color]
+        *[item] [color=crimson]This is considered highly illegal![/color]
+        [reagent] [color=crimson]Something in this is considered highly illegal![/color]
     }
 
 contraband-examine-text-Syndicate =
     { $type ->
-        *[item] [color=crimson]This item is highly illegal Syndicate contraband![/color]
-        [reagent] [color=crimson]This reagent is highly illegal Syndicate contraband![/color]
+        *[item] [color=crimson]This is considered highly illegal![/color]
+        [reagent] [color=crimson]Something in this is considered highly illegal![/color]
     }
 
 contraband-examine-text-Magical =
     { $type ->
-        *[item] [color=#b337b3]This item is highly illegal magical contraband![/color]
-        [reagent] [color=#b337b3]This reagent is highly illegal magical contraband![/color]
+        *[item] [color=#b337b3]This is highly illegal and magical![/color]
+        [reagent] [color=#b337b3]Something in this reagent is highly illegal and magical![/color]
     }
 
-contraband-examine-text-avoid-carrying-around = [color=red][italic]You probably want to avoid visibly carrying this around without a good reason.[/italic][/color]
+contraband-examine-text-avoid-carrying-around = [color=red][italic]You probably want to avoid visibly carrying this around without a good reason...[/italic][/color]
 contraband-examine-text-in-the-clear = [color=green][italic]You should be in the clear to visibly carry this around.[/italic][/color]
 
 contraband-examinable-verb-text = Legality

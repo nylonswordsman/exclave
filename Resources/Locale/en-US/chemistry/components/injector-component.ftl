@@ -29,7 +29,7 @@ injector-component-cannot-toggle-draw-message = Too full to draw!
 injector-component-cannot-toggle-inject-message = Nothing to inject!
 injector-component-cannot-toggle-dynamic-message = Can't toggle dynamic!
 injector-component-empty-message = {CAPITALIZE(THE($injector))} is empty!
-injector-component-blocked-user = Protective gear blocked your injection!
+injector-component-blocked-user = The target's equipment blocked your injection!
 injector-component-blocked-other = {CAPITALIZE(THE(POSS-ADJ($target)))} armor blocked {THE($user)}'s injection!
 injector-component-cannot-transfer-message = You aren't able to transfer into {THE($target)}!
 injector-component-cannot-transfer-message-self = You aren't able to transfer into yourself!
@@ -41,12 +41,12 @@ injector-component-ignore-mobs = This injector can only interact with containers
 
 ## mob-inject doafter messages
 
-injector-component-needle-injecting-user = You start injecting the needle.
-injector-component-needle-injecting-target = {CAPITALIZE(THE($user))} is trying to inject a needle into you!
-injector-component-needle-drawing-user = You start drawing the needle.
-injector-component-needle-drawing-target = {CAPITALIZE(THE($user))} is trying to use a needle to draw from you!
-injector-component-spray-injecting-user = You start preparing the spray nozzle.
-injector-component-spray-injecting-target = {CAPITALIZE(THE($user))} is trying to place a spray nozzle onto you!
+injector-component-needle-injecting-user = You place the needle carefully against their skin...
+injector-component-needle-injecting-target = {CAPITALIZE(THE($user))} places {CAPITALIZE(THE(POSS-ADJ($user)))} needle against your fur...!
+injector-component-needle-drawing-user = You line up the needle with a vein...
+injector-component-needle-drawing-target = {CAPITALIZE(THE($user))} lines up the needle with your veins...!
+injector-component-spray-injecting-user = You point the injector at {$target}...
+injector-component-spray-injecting-target = {CAPITALIZE(THE($user))} is pointing {CAPITALIZE(THE(POSS-ADJ($user)))} injector at you...!
 
 ## Target Popup Success messages
-injector-component-feel-prick-message = You feel a tiny prick!
+injector-component-feel-prick-message = You feel a tiny prick.

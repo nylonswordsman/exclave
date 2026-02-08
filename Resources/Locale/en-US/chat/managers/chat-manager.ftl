@@ -1,6 +1,6 @@
 ### UI
 
-chat-manager-max-message-length = Your message exceeds {$maxMessageLength} character limit
+chat-manager-max-message-length = Your message exceeds {$maxMessageLength} character limit!
 chat-manager-ooc-chat-enabled-message = OOC chat has been enabled.
 chat-manager-ooc-chat-disabled-message = OOC chat has been disabled.
 chat-manager-looc-chat-enabled-message = LOOC chat has been enabled.
@@ -51,7 +51,7 @@ chat-manager-send-hook-admin-wrap-message = ADMIN: [bold](D){$senderName}:[/bold
 chat-manager-dead-channel-name = DEAD
 chat-manager-admin-channel-name = ADMIN
 
-chat-manager-rate-limited = You are sending messages too quickly!
+chat-manager-rate-limited = Enhance your calm.
 chat-manager-rate-limit-admin-announcement = Rate limit warning: { $player }
 
 ## Speech verbs for chat
@@ -173,3 +173,43 @@ chat-speech-verb-wawa-1 = intones
 chat-speech-verb-wawa-2 = states
 chat-speech-verb-wawa-3 = declares
 chat-speech-verb-wawa-4 = ponders
+
+chat-speech-verb-name-rat = Rat
+chat-speech-verb-rat-1 = 1
+chat-speech-verb-rat-2 = 2
+chat-speech-verb-rat-3 = 3
+
+chat-speech-verb-name-mouse = Mouse
+chat-speech-verb-mouse-1 = 1
+chat-speech-verb-mouse-2 = 2
+chat-speech-verb-mouse=3 = 3
+
+chat-speech-verb-name-squirrel = Squirrel
+chat-speech-verb-squirrel-1 = 1
+chat-speech-verb-squirrel-2 = 2
+chat-speech-verb-squirrel-3 = 3
+
+chat-speech-verb-name-rabbit = Rabbit
+chat-speech-verb-rabbit-1 = 1
+chat-speech-verb-rabbit-2 = 2
+chat-speech-verb-rabbit-3 = 3
+
+chat-speech-verb-name-ermine = Ermine
+chat-speech-verb-ermine-1 = 1
+chat-speech-verb-ermine-2 = 2
+chat-speech-verb-ermine-3 = 3
+
+chat-speech-verb-name-thaleb = Thaleb
+chat-speech-verb-thaleb-1 = 1
+chat-speech-verb-thaleb-2 = 2
+chat-speech-verb-thaleb-3 = 3
+
+chat-speech-verb-name-badger = Badger
+chat-speech-verb-badger-1 = 1
+chat-speech-verb-badger-2 = 2
+chat-speech-verb-badger-3 = 3
+
+chat-speech-verb-name-skink = Skink
+chat-speech-verb-skink-1 = 1
+chat-speech-verb-skink-2 = 2
+chat-speech-verb-skink-3 = 3

@@ -1,4 +1,4 @@
-chameleon-projector-inside-container = There's no room to scan that!
-chameleon-projector-invalid = You can't disguise as that!
-chameleon-projector-success = Projected new disguise.
-chameleon-projector-set-disguise = Set Disguise
+chameleon-projector-inside-container = There's no room to take notes on that!
+chameleon-projector-invalid = You can't comprehend how to make this into clothes!
+chameleon-projector-success = You take notes on how to make that in the future.
+chameleon-projector-set-disguise = Reweave

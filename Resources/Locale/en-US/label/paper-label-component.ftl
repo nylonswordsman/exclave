@@ -1,5 +1,5 @@
-comp-paper-label-has-label = There is a label attached, it reads:
-comp-paper-label-has-label-blank = There is a label attached, but it's blank.
-comp-paper-label-has-label-cant-read = There is a label attached, but you can't read it from this distance.
-comp-paper-label-insert = Attach label
-comp-paper-label-eject = Detach label
+comp-paper-label-has-label = It's labeled, 
+comp-paper-label-has-label-blank = There's a label on it, but it's blank...
+comp-paper-label-has-label-cant-read = There's a label on it, but you can't read it from here...
+comp-paper-label-insert = Attach Label
+comp-paper-label-eject = Detach Label

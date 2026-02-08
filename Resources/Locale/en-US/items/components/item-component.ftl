@@ -8,9 +8,9 @@ pick-up-verb-get-data-text-inventory = Put in hand
 
 item-component-on-examine-size = This is {INDEFINITE($size)} [bold]{$size}[/bold] item.
 
-item-component-size-Tiny = tiny
+item-component-size-Tiny = very small
 item-component-size-Small = small
 item-component-size-Normal = medium
 item-component-size-Large = large
 item-component-size-Huge = huge
-item-component-size-Ginormous = ginormous
+item-component-size-Ginormous = massive

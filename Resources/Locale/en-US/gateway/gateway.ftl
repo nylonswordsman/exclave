@@ -1,8 +1,8 @@
 gateway-window-title = Gateway
 gateway-window-open-portal = Open Portal
-gateway-window-no-destinations = No destinations found.
+gateway-window-no-destinations = No destinations...
 gateway-window-portal-cooldown = Cooldown
-gateway-window-portal-unlock = Next unlock
+gateway-window-portal-unlock = Next Unlock
 gateway-window-locked = Locked
 
 gateway-access-denied = Access denied!

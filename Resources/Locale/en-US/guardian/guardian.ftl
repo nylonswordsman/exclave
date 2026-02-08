@@ -1,7 +1,7 @@
 
 ## Guardian host specific
 
-guardian-created = You feel... Haunted.
+guardian-created = You feel... haunted.
 guardian-already-present-invalid-creation = You are NOT re-living that haunting experience!
 guardian-no-actions-invalid-creation = You don't have the ability to host a guardian!
 guardian-activator-empty-invalid-creation = The injector is spent.

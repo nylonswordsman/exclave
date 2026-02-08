@@ -3,7 +3,7 @@ shared-solution-container-component-on-examine-main-text = It contains {INDEFINI
    *[other] mixture of chemicals.
     }
 
-examinable-solution-has-recognizable-chemicals = You can recognize {$recognizedString} in the solution.
+examinable-solution-has-recognizable-chemicals = You can recognize {$recognizedString} in the solution...
 examinable-solution-recognized = [color={$color}]{$chemical}[/color]
 
 examinable-solution-on-examine-volume = The contained solution is { $fillLevel ->
@@ -18,12 +18,12 @@ examinable-solution-on-examine-volume-no-max = The contained solution is { $fill
 
 examinable-solution-on-examine-volume-puddle = The puddle is { $fillLevel ->
     [exact] [color=white]{$current}u[/color].
-    [full] huge and overflowing!
-    [mostlyfull] huge and overflowing!
-    [halffull] deep and flowing.
-    [halfempty] very deep.
+    [full] huge and overflowing...!
+    [mostlyfull] huge and overflowing...
+    [halffull] deep and flowing...
+    [halfempty] deep.
    *[mostlyempty] pooling together.
-    [empty] forming multiple small pools.
+    [empty] barely there.
 }
 
 -solution-vague-fill-level =
