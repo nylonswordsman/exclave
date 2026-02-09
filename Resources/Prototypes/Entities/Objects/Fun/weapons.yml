@@ -301,8 +301,8 @@
 - type: entity
   parent: [ BaseItem, BaseToySword ]
   id: CardSword
-  name: cardboard sword
-  description: A cardboard tube fashioned into the shape of a sword.
+  name: paper sword
+  description: A large paper fashioned into the shape of a sword.
   components:
   - type: Sprite
     sprite: Objects/Fun/card_sword.rsi

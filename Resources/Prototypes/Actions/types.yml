@@ -68,7 +68,7 @@
   parent: BaseMentalAction
   id: ActionTurnUndead
   name: Turn Undead
-  description: Succumb to your infection and become a zombie.
+  description: Let the infection wash over you, becoming a zombie.
   components:
   - type: Action
     icon: Interface/Actions/zombie-turn.png
@@ -79,7 +79,7 @@
   parent: BaseToggleAction
   id: ActionToggleLight
   name: Toggle Light
-  description: Turn the light on and off.
+  description: Turn the light on or off.
   components:
   - type: Action
     useDelay: 1
@@ -243,7 +243,7 @@
   parent: BaseMentalAction
   id: ActionCombatModeToggle
   name: "[color=red]Combat Mode[/color]"
-  description: Enter combat mode
+  description: Drop into a hostile stance, ready to fight...
   components:
   - type: Action
     icon: Interface/Actions/harmOff.png
@@ -331,8 +331,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionSleep
-  name: Sleep
-  description: Go to sleep.
+  name: Rest
+  description: Fall into a light sleep. Wake at any time.
   components:
   - type: Action
     icon: { sprite: Clothing/Head/Hats/pyjamasyndicatered.rsi, state: icon }
@@ -342,8 +342,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionWake
-  name: Wake up
-  description: Stop sleeping.
+  name: Wake Up
+  description: Wake from a light rest. Might take a few tries.
   components:
   - type: Action
     startDelay: true
@@ -391,8 +391,8 @@
 - type: entity
   parent: BaseToggleAction
   id: ActionToggleWagging
-  name: Wagging Tail
-  description: Start or stop wagging your tail.
+  name: Toggle Tail Movement
+  description: Start or stop moving your tail.
   components:
   - type: Action
     icon: { sprite: Mobs/Customization/reptilian_parts.rsi, state: tail_smooth_behind }

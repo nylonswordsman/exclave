@@ -1,0 +1,9 @@
+# action types as used in the like. combat actions
+
+- type: entity
+  abstract: true
+  parent: BaseAction
+  id: BaseDoAfterAction
+  components:
+    - type: DoAfterArgs
+      

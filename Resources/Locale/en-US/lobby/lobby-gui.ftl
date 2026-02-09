@@ -17,7 +17,7 @@ ui-lobby-ready-button-tooltip-is-ready =
 ui-lobby-ready-button-tooltip-is-not-ready =
     Your characters won't wake just yet...
     Toggle to spawn as the selected character when the round starts.
-ui-lobby-ready-button-tooltip-not-loaded = Hold on! Your characters have not loaded yet!
+ui-lobby-ready-button-tooltip-not-loaded = Your characters haven't loaded yet!
 ui-lobby-ready-button-tooltip-join-state = Wake a character to play as in the middle of the day/night.
 
 ui-lobby-lock-priorities-checkbox-tooltip = Allow dragging and dropping of job priorities directly.

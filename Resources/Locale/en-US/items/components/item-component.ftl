@@ -4,7 +4,7 @@ pick-up-verb-get-data-text = Pick Up
 
 # "pick up" doesn't make sense if the item is already in their inventory
 
-pick-up-verb-get-data-text-inventory = Put in hand
+pick-up-verb-get-data-text-inventory = Take Out
 
 item-component-on-examine-size = This is {INDEFINITE($size)} [bold]{$size}[/bold] item.
 

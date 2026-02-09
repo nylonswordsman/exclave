@@ -2,7 +2,7 @@
 
 ## Title
 
-ui-transfer-amount-title = Change Transfer Amount
+ui-transfer-amount-title = Change Transfer Amount...
 
 ## Text for the button to apply changes
 

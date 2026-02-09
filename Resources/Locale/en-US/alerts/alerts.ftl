@@ -1,26 +1,26 @@
-alerts-low-oxygen-name = [color=red]Low Oxygen[/color]
-alerts-low-oxygen-desc = There is [color=red]not enough oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-oxygen-name = [color=red]Thin Air[/color]
+alerts-low-oxygen-desc = There's [color=red]not enough air[/color] for you to breathe in your surroundings...! You'll suffocate if you stay here.
 
 alerts-low-nitrogen-name = [color=red]Low Nitrogen[/color]
-alerts-low-nitrogen-desc = There is [color=red]not enough nitrogen[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-low-nitrogen-desc = There is [color=red]not enough nitrogen[/color] in the air you are breathing...!
 
 alerts-high-toxin-name = [color=red]High Toxin Level[/color]
-alerts-high-toxin-desc = There are [color=red]too many toxins[/color] in the air you are breathing. Put on [color=green]internals[/color] or get away.
+alerts-high-toxin-desc = There are [color=red]too many toxins[/color] in the air you are breathing.
 
 alerts-low-pressure-name = [color=red]Low Pressure[/color]
-alerts-low-pressure-desc = The air around you is [color=red]hazardously thin[/color]. A [color=green]space suit[/color] would protect you.
+alerts-low-pressure-desc = The air around you feels as if it's [color=red]trying to pull you apart[/color]...! You'll take constant damage and bleed in this area!
 
 alerts-high-pressure-name = [color=red]High Pressure[/color]
-alerts-high-pressure-desc = The air around you is [color=red]hazardously thick[/color]. A [color=green]pressurized suit[/color] would be enough to protect you.
+alerts-high-pressure-desc = The air around you feels as if it's [color=red]trying to crush you[/color]...! You'll take constant damage and bleed in this area!
 
 alerts-on-fire-name = [color=red]On Fire[/color]
-alerts-on-fire-desc = You're [color=red]on fire[/color]. Click the alert to stop, drop and roll to put the fire out or move to a vacuum area.
+alerts-on-fire-desc = You're [color=red]on fire[/color], the flames eating away at you...! Click the alert to drop to the ground and roll, reducing the amount of fire, or spill liquids onto yourself to put yourself out.
 
 alerts-too-cold-name = [color=cyan]Too Cold[/color]
-alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere warmer and take off any insulating clothing like a space suit.
+alerts-too-cold-desc = You're [color=cyan]freezing cold![/color] Get somewhere warmer or put on heavier clothes and armor.
 
 alerts-too-hot-name = [color=red]Too Hot[/color]
-alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder, take off any insulating clothing like a space suit, or at least get away from the flames.
+alerts-too-hot-desc = It's [color=red]too hot![/color] Get somewhere colder or shed some layers.
 
 alerts-weightless-name = Weightless
 alerts-weightless-desc =
@@ -28,28 +28,33 @@ alerts-weightless-desc =
     Mag-boots or jetpacks would help you move with more control.
 
 alerts-walking-name = Walking
-alerts-walking-desc = You are walking, moving at a slow pace.
+alerts-walking-desc = You are walking, moving at a more relaxed pace.
 
 alerts-stunned-name = [color=yellow]Stunned[/color]
-alerts-stunned-desc = You're [color=yellow]stunned[/color]! Something is impairing your ability to move or interact with objects.
+alerts-stunned-desc = You're [color=yellow]stunned[/color] and unable to move or act!
 
 alerts-knockdown-name = [color=yellow]Knocked Down[/color]
-alerts-knockdown-desc = You're [color=yellow]Knocked Down[/color]! Something has slipped or pushed you over, encumbering your movement.
+alerts-knockdown-desc = You're [color=yellow]Knocked Down[/color]! Something has slipped or pushed you over, hampering your movement and interrupting your actions...!
 
-alerts-handcuffed-name = [color=yellow]Handcuffed[/color]
-alerts-handcuffed-desc = You're [color=yellow]handcuffed[/color] and can't use your hands. If anyone drags you, you won't be able to resist.
+alerts-handcuffed-name = [color=yellow]Restrained[/color]
+alerts-handcuffed-desc = Your [color=yellow]paws are tied[/color] behind your back, and you can't use your hands...! If anyone drags you, you won't be able to resist.
 
-alerts-ensnared-name = [color=yellow]Ensnared[/color]
-alerts-ensnared-desc = You're [color=yellow]ensnared[/color] and is impairing your ability to move.
+alerts-ensnared-name = [color=yellow]Snared[/color]
+alerts-ensnared-desc = Something is [color=yellow]ensnaring[/color] your paws, impairing your movement...!
 
-alerts-buckled-name = [color=yellow]Buckled[/color]
-alerts-buckled-desc = You've been [color=yellow]buckled[/color] to something. Click the alert to unbuckle unless you're [color=yellow]handcuffed.[/color]
+alerts-buckled-name = [color=yellow]Resting[/color]
+alerts-buckled-desc = You're [color=yellow]resting[/color] on something. Click the alert to get up, unless you're [color=yellow]restrained.[/color]
 
-alerts-crit-name = [color=red]Critical Condition[/color]
-alerts-crit-desc = You're severely injured and unconscious.
+alerts-crit-name = [color=red]Critical[/color]
+alerts-crit-desc = You're severely injured and unconscious...! 
 
 alerts-dead-name = Dead
-alerts-dead-desc = You're dead, note that you can still be revived!
+alerts-dead-desc =
+    You are dead, but your soul is still bound to the island. You can still be revived and brought back by your fellow critters.
+    Move to break from your body and become a ghost; your character's soul is still with them, and you can return to your body at any time.
+    You can't use any information you learn as a ghost, because your character's spirit won't leave their body, even if you do.
+    If you decide to inhabit a different character, this character will remain in a deep sleep and unresponsive even after being revived.
+    This character will be resurrected at the beginning of the next day or night with half health if no one revives you before this day or night ends.
 
 alerts-health-name = Health
 alerts-health-desc = [color=green]Green[/color] good. [color=red]Red[/color] bad.
@@ -67,22 +72,22 @@ alerts-piloting-name = Piloting Shuttle
 alerts-piloting-desc = You are piloting a shuttle. Click the alert to stop.
 
 alerts-hunger-name = [color=yellow]Peckish[/color]
-alerts-hunger-desc = Some food would be good right about now.
+alerts-hunger-desc = You find yourself idly thinking that some food would be nice.
 
 alerts-stamina-name = Stamina
 alerts-stamina-desc = Stuns you if it is too low.
 
 alerts-starving-name = [color=red]Starving[/color]
-alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore.
+alerts-starving-desc = You're severely malnourished. The hunger pains make moving around a chore...
 
 alerts-thirsty-name = [color=yellow]Thirsty[/color]
-alerts-thirsty-desc = Something to drink would be good right about now.
+alerts-thirsty-desc = Your mouth is a bit dry. You idly think that you could use something to drink.
 
 alerts-parched-name = [color=red]Parched[/color]
-alerts-parched-desc = You're severely thirsty. The thirst makes moving around a chore.
+alerts-parched-desc = You're exremely dehydrated. The thirst makes moving around a chore...
 
-alerts-muted-name = Muted
-alerts-muted-desc = You have lost the ability to speak.
+alerts-muted-name = Silenced
+alerts-muted-desc = You can't speak, cast most spells, or use Shouts.
 
 alerts-vow-silence-name = Vow of Silence
 alerts-vow-silence-desc = You have taken a vow forbidding verbal or written communication as part of initiation into the Mystiko Tagma Mimon. Click to break your vow.
@@ -91,10 +96,10 @@ alerts-vow-broken-name = Vow Broken
 alerts-vow-broken-desc = You've broken your vows to Mimes everywhere. You can speak and write, but you've lost your powers for at least 5 entire minutes!!! Click to try and retake your vow.
 
 alerts-pulled-name = Pulled
-alerts-pulled-desc = You're being pulled. Move to break free.
+alerts-pulled-desc = You're being pulled by something... Move to break free, unless you're restrained.
 
 alerts-pulling-name = Pulling
-alerts-pulling-desc = You're pulling something. Click the alert to stop.
+alerts-pulling-desc = You're pulling something... Click the alert to stop.
 
 alerts-bleed-name = [color=red]Bleed[/color]
 alerts-bleed-desc = You're [color=red]bleeding[/color].

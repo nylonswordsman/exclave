@@ -11,7 +11,7 @@
   parent: BaseCritAction
   id: ActionCritSuccumb
   name: Succumb
-  description: Accept your fate.
+  description: Cease holding on and allow your soul to break from your body.
   components:
   - type: Action
     startDelay: true
@@ -25,8 +25,8 @@
 - type: entity
   parent: BaseCritAction
   id: ActionCritFakeDeath
-  name: Fake Death
-  description: Pretend to take your final breath while staying alive.
+  name: Feign Death
+  description: Pretend to take your final breath while remaining alive.
   components:
   - type: Action
     useDelay: 30
@@ -39,8 +39,8 @@
 - type: entity
   parent: ActionCritSuccumb # for use delay
   id: ActionCritLastWords
-  name: Say Last Words
-  description: Whisper your last words to anyone nearby, and then succumb to your fate. You only have 30 characters to work with.
+  name: Dying Words
+  description: Expend the last of your energy to whisper your last words to anyone nearby, and then die. You only have 30 characters to work with.
   components:
   - type: Action
     icon:
